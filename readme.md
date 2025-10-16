@@ -1,3 +1,3 @@
 Dies ist das Spam Mail Projekt.
 
-Weitere Informationen folgen.
+Eröffnen Sie ein Issue und schreiben Sie uns Domains bei denen wir uns per eMail registrieren. Sobald der Betreiber unsere eMail verkauft hat, gibt es dann von uns die entsprechenden Updates.
